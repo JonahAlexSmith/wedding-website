@@ -41,6 +41,11 @@ html {
   --light-green: #8E9775;
   --dark-green: #4A503D;
   --dusty-pink: #E28F83;
+  --bp-purple: #75638b;
+  --bp-palepink: #e8d0d9;
+  --bp-pink: #e590a5;
+  --bp-blue: #507592;
+  --bp-gold: #dac291;
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */

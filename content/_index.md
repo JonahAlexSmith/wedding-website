@@ -1,7 +1,7 @@
 ---
 draft: false
-when: "Sat 11th Feb 2023, 2:00 PM"
+when: "Sat 26th July 2025, 4:00 PM"
 where:
-  first: "Higher Eggbeer Farm"
-  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+  first: "Gunners' Barracks"
+  second: "End of Suakin Dr, Mosman NSW 2088"
 ---

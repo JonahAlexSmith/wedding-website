@@ -7,7 +7,7 @@ title: "Travel Advice"
 
 ## Address
 
-Higher Eggbeer Farm, 
+, 
 Cheriton Bishop, 
 Exeter, 
 EX6 6JQ
