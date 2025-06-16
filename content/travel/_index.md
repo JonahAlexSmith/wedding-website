@@ -3,46 +3,35 @@ draft: false
 title: "Travel Advice"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5988.827892632287!2d-3.7497530637098593!3d50.72189916227002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486dac616bc30dc7%3A0x95241c452f2c9cec!2sEggbeer%20Farm!5e0!3m2!1sen!2suk!4v1659273800010!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3314.0509913932356!2d151.2583057!3d-33.836795599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ac6b498cdf71%3A0xc1b530b9ab6790b0!2sGunners%20Barracks!5e0!3m2!1sen!2sau!4v1750085872342!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ## Address
 
-, 
-Cheriton Bishop, 
-Exeter, 
-EX6 6JQ
+End of Suakin Drive,
+Mosman NSW 2088
++61 2 8962 5900
+info@gunnersbarracks.com.au
 
-## By train
+## By Car
 
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
 
-You would then need to travel by taxi.
+- Head towards Taronga Zoo, take Military Road through Mosman village. At the roundabout take the first exit onto Middle Head Road. Continue along this road, turn right into Suakin Drive. Follow this road right to the end. Turn right onto Commonwealth Avenue, you will find complimentary parking available on the left.
 
-## By taxi
 
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
+- On foot, proceed down the stairs located at the end of the car park. The building you see once you have reached the bottom is Gunners’ Barracks.
 
-Please arrange cabs home for your group on Saturday night after the wedding.
+- There are 2x Disabled parking spaces are available closer to the venue, you will need to go through the boom gate (we cannot reserve these spaces)
 
-<br>
+## By Bus
 
-**Taxi Companies:**
+- People wishing to travel to Gunners’ Barracks from the CBD by bus will need to:
 
-Exeter Cars - 01392 555555 ([website](https://www.exetercars.com/))
+- Alight on ‘100 – QVB to Taronga Zoo’ and disembark at Mosman Junction then,
 
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
+- Transfer and alight ‘111 – South Mosman Wharf to Chowder Bay’ and disembark at Middle Head Rd, opposite Markham Close.
 
-Andrew Mills Taxi - 01392 253588
-
-## By car
-
-**Note: Parking is available on site and cars can be left on site overnight**
-
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
+- Proceed with a short walk to our venue to complete your journey.
 
  
 

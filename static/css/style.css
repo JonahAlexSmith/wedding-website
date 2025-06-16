@@ -37,15 +37,15 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream: #FAF2DA;
+  /* --cream: #FAF2DA; */
   --light-green: #8E9775;
   --dark-green: #4A503D;
-  --dusty-pink: #E28F83;
+  /* --dusty-pink: #E28F83; */
   --bp-purple: #75638b;
   --bp-palepink: #e8d0d9;
   --bp-pink: #e590a5;
-  --bp-blue: #507592;
-  --bp-gold: #dac291;
+  --dusty-pink: #507592;
+  --cream: #e0cba1;
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
@@ -79,7 +79,7 @@ html {
   padding-bottom: 5vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: top;
   align-items: center;
   background-color: var(--dusty-pink);
   color: var(--cream);
@@ -100,8 +100,8 @@ html {
   }
 
   .header-svg {
-    width: 75%;
-    height: 75%;
+    width: 50%;
+    height: auto;
   }
 }
 
