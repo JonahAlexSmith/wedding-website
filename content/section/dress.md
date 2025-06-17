@@ -3,8 +3,9 @@ draft: false
 title: "Dress"
 ---
 
-Please wear what would make you feel your most glamorous and sexy! There's no dress code or rules and none of us will be wearing traditional wedding dress - Hugo will be in a pink suit, and Sarah in a light green dress.
+Guests are encouraged to dress in a formal or semi-formal style - Jonah and Erin will be dressing in a traditional black and white style.
+
 
 <br>
 
-As we will be getting married on a farm in February **we encourage everyone to bring lots of layers**! There may be brief moments when we will need to go outside while barns are being rearranged, but inside the barn there is heating and a fire.
+As we will be getting married by the ocean in July **we encourage everyone to bring lots of layers**! There may be brief moments when we will need to go outside, but inside the venue is well heated.
