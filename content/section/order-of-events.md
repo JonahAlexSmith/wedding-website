@@ -7,32 +7,29 @@ title: "Order of Events"
 
 Everyone arrives at Gunners' Barracks.
 
-Warm drink on arrival before the ceremony
+Warm drink on arrival before the ceremony.
 
 ## 4pm - Ceremony
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+Ceremony held on the harbour view lawn - bring a coat, or something warm!
 
-Speeches after dinner
-
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
+Group photos on the lawn and Georges heights.
 
 ## 4:30pm - Canapes
 
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
+Pre-dinner canapés on the harbour terrace.
 
-_The Small Things_ playing live music until 11pm
+Beverage service commences.
 
-Late night food served for those still peckish!
+## 6:00pm - Dinner 
 
+An alternative menu served with speech(es) to follow.
 
-## 5:00pm - Dinner 
+<!-- After a quick reshuffle of the **Banquet Barn**, the party will begin! -->
 
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
+<!-- _The SmalVl Things_ playing live music until 11pm
 
-_The Small Things_ playing live music until 11pm
-
-Late night food served for those still peckish!
+Late night food served for those still peckish! -->
 
 <!-- ## Carriages at midnight
 
@@ -45,3 +42,8 @@ _Venue Bar closes shortly after midnight_
 The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
 
 The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up! -->
+## 8:00pm - Music, Games, and Cake
+
+Followed by dancing and (more) celebrations in the sandstone courtyard.
+
+The reception will end at 9.30pm with a sparkly sendoff!
