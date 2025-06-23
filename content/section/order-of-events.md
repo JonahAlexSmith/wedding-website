@@ -3,7 +3,7 @@ draft: false
 title: "Order of Events"
 ---
 
-## 3:30 - Arrivals
+## 3:45 - Arrivals
 
 Everyone arrives at Gunners' Barracks.
 
