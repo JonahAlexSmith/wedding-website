@@ -3,7 +3,7 @@ draft: false
 title: "Dress"
 ---
 
-Guests are encouraged to dress in a formal or semi-formal style - Jonah and Erin will be dressing in a traditional black and white style.
+The dress code is a formal/semi-formal style - we encourage that men wear suits and woman wear dresses or formal evening pants in colours of their choices.
 
 
 <br>
