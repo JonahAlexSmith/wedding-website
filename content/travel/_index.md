@@ -16,7 +16,7 @@ info@gunnersbarracks.com.au
 ## By Car
 
 
-- Head towards Taronga Zoo, take Military Road through Mosman village. At the roundabout take the first exit onto Middle Head Road. Continue along this road, turn right into Suakin Drive. Follow this road right to the end. Turn right onto Commonwealth Avenue, you will find complimentary parking available on the left.
+- Head towards Taronga Zoo, take Military Road through Mosman village. At the roundabout take the first exit onto Middle Head Road. Continue along this road, turn right into Suakin Drive. Follow this road right to the end. Turn right onto Commonwealth Avenue, you will find **complimentary** parking available on the left.
 
 
 - On foot, proceed down the stairs located at the end of the car park. The building you see once you have reached the bottom is Gunners’ Barracks.
