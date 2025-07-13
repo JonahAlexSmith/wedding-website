@@ -3,11 +3,9 @@ draft: false
 title: "Order of Events"
 ---
 
-## 3:45 - Arrivals
+## 3:50 - Arrivals
 
 Everyone arrives at Gunners' Barracks.
-
-Warm drink on arrival before the ceremony.
 
 ## 4pm - Ceremony
 
