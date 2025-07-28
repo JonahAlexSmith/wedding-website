@@ -7,8 +7,11 @@
         {{ partial "svgs/panache.svg" . }}
     </div>
     <h1 class="section__heading">{{.Page.Title}}</h1>
-    {{ .Page.Content }}
+    <!-- {{ .Page.Content }} -->
+    {{ partial "image-gallery" (dict "context" . "gallery_dir" "/album") }}
+
 </section>
+
 
 {{ partial "shared/footer.html" . }}
 {{- end }}
